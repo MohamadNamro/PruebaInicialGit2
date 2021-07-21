@@ -14,5 +14,8 @@ public class ClasePrueba {
     public int divide(int a,int b){
         return a/b;
     } 
+    public int valorAbsoluto(int a){
+        return Math.abs(a);
+    }
 }
 
