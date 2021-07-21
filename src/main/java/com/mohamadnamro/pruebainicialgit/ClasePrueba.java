@@ -17,5 +17,8 @@ public class ClasePrueba {
     public int valorAbsoluto(int a){
         return Math.abs(a);
     }
+    public int resto(int a, int b){
+        return a%b;
+    }
 }
 
